@@ -21,7 +21,7 @@
 - [RPi Setup Assignment](https://github.com/linomp/c-repos-collection/files/7952893/RPi.SD.Card.Assignment.pdf): Step by Step guide for Raspberry Pi OS setup with RPi Imager + Remote Development via SSH with VS Code.
 
 ## Embedded Systems <sub>(Spring 2021)</sub>
-- [IAS0330 Lab Assignments](./IAS0330_embedded_systems)
+- [IAS0330 Lab Assignments](./IAS0330_embedded_systems): Interfacing with peripherals, Interrupts, PWM, ADC, Task Scheduling.
 
 ## Distributed & Parallel Computing <sub>(@ École Polytechnique, Spring 2022)</sub>  
 - [INF560_Distributed_and_Parallel_Computing](https://github.com/linomp/INF560_Distributed_and_Parallel_Computing): My code for the hands-on sessions of the course. 
