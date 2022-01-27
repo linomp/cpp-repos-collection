@@ -1,0 +1,18 @@
+[submodule "its8020-dumper"]
+	path = its8020-dumper
+	url = https://github.com/linomp/its8020-dumper
+[submodule "esp32-nodered-integration"]
+	path = esp32-nodered-integration
+	url = https://github.com/linomp/esp32-nodered-integration
+[submodule "cpp_pointers_tutorial"]
+	path = cpp_pointers_tutorial
+	url = https://github.com/linomp/cpp_pointers_tutorial
+[submodule "ICS0025_coursework_3"]
+	path = ICS0025_coursework_3
+	url = https://github.com/linomp/ICS0025_coursework_3
+[submodule "ICS0025_coursework_2"]
+	path = ICS0025_coursework_2
+	url = https://github.com/linomp/ICS0025_coursework_2
+[submodule "ICS0025_coursework_1"]
+	path = ICS0025_coursework_1
+	url = https://github.com/linomp/ICS0025_coursework_1
