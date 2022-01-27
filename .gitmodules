@@ -16,3 +16,9 @@
 [submodule "ICS0025_coursework_1"]
 	path = ICS0025_coursework_1
 	url = https://github.com/linomp/ICS0025_coursework_1
+[submodule "simple-eq-juce"]
+	path = simple-eq-juce
+	url = https://github.com/linomp/simple-eq-juce
+[submodule "INF560_Distributed_and_Parallel_Computing"]
+	path = INF560_Distributed_and_Parallel_Computing
+	url = https://github.com/linomp/INF560_Distributed_and_Parallel_Computing
