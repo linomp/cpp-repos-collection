@@ -14,7 +14,7 @@
 ## Advanced C/C++ <sub>(Spring 2021)</sub>
 - [coursework 1](https://github.com/linomp/ICS0025_coursework_1): STL Containers & Algorithms.
 - [coursework 2](https://github.com/linomp/ICS0025_coursework_2): Inter-Process Communication with a named pipe.
-- [coursework 3](https://github.com/linomp/ICS0025_coursework_2): Qt GUI app for plotting functions. Communicates with a local server through a named pipe.
+- [coursework 3](https://github.com/linomp/ICS0025_coursework_3): Qt GUI app for plotting functions. Communicates with a local server through a named pipe.
 
 ## Embedded Software Workshop <sub>(Spring 2021)</sub>
 - [esp32-nodered-integration](https://github.com/linomp/esp32-nodered-integration): ESP32 to Node-Red dashboard communication with MQTT and FreeRTOS. 
