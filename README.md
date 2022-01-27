@@ -1,6 +1,6 @@
 # C repos collection
 
-A collection of my C/C++ repos throughoutmy master's degree at TTÜ/UT, Estonia.
+A collection of my C/C++ repos throughout my master's degree at TTÜ/UT, Estonia.
 
 ## Pre-2020
 - [cpp_pointers_tutorial](https://github.com/linomp/cpp_pointers_tutorial): Thoroughly annotated source code to accompany my favorite "Pointers in C/C++" youtube playlist. 
