@@ -21,4 +21,4 @@
 - [RPi Setup Assignment](https://github.com/linomp/c-repos-collection/files/7952893/RPi.SD.Card.Assignment.pdf): Step by Step guide for Raspberry Pi OS setup with RPi Imager + Remote Development via SSH with VS Code.
 
 ## Distributed & Parallel Computing <sub>(@ École Polytechnique, Spring 2022)</sub>  
-- [INF560_Distributed_and_Parallel_Computing](https://github.com/linomp/INF560_Distributed_and_Parallel_Computing): My code for the hands-on sessions of the course.
+- [INF560_Distributed_and_Parallel_Computing](https://github.com/linomp/INF560_Distributed_and_Parallel_Computing): My code for the hands-on sessions of the course. 
