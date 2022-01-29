@@ -2,7 +2,7 @@
 
 ## Self-Study 
 ##### Pre 2020
-- [cpp_pointers_tutorial](https://github.com/linomp/cpp_pointers_tutorial): Thoroughly annotated source code to accompany my favorite "Pointers in C/C++" youtube playlis
+- [cpp_pointers_tutorial](https://github.com/linomp/cpp_pointers_tutorial): Thoroughly annotated source code to accompany my favorite "Pointers in C/C++" youtube playlist
 
 ##### Autumn 2021
 - [simple-eq-juce](https://github.com/linomp/simple-eq-juce): Simple audio plugin using JUCE framework and modern C++ [Work in Progress 🚧]. 
