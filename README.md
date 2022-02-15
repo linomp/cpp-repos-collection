@@ -1,6 +1,6 @@
 # C repos collection
 
-## Self-Study 
+## Independent Study 
 ##### Pre 2020
 - [cpp_pointers_tutorial](https://github.com/linomp/cpp_pointers_tutorial): Thoroughly annotated source code to accompany my favorite "Pointers in C/C++" youtube playlist.
 
