@@ -4,6 +4,9 @@
 ##### Pre 2020
 - [cpp_pointers_tutorial](https://github.com/linomp/cpp_pointers_tutorial): Thoroughly annotated source code to accompany my favorite "Pointers in C/C++" youtube playlist.
 
+##### Summer 2021
+- [node-apps](https://github.com/thinnect/node-apps): Simple example applications for the Thinnect embedded node platform ecosystem. I contributed by updating the Gecko Flex SDK from `2.7.1.0` to `3.2.0.0`, ARM toolchain from `8-2019-q3-update` to `10-2020-q4-major`, and making sure all the sample applications still worked on the supported Gecko Thunderboard models & Thinnect TestSystemBoards.
+
 ##### Autumn 2021
 - [simple-eq-juce](https://github.com/linomp/simple-eq-juce): Simple audio plugin using JUCE framework and modern C++ [Work in Progress 🚧]. 
 
