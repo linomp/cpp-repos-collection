@@ -27,5 +27,5 @@
 - [Lab Assignments](./IAS0330_embedded_systems): Interfacing with peripherals, Interrupts, PWM, ADC, Task Scheduling.
 
 ## Distributed & Parallel Computing <sub>(@ École Polytechnique, Spring 2022)</sub>  
-- [INF560_Distributed_and_Parallel_Computing](https://github.com/linomp/INF560_Distributed_and_Parallel_Computing): My code for the hands-on sessions of the course.
+- [INF560_Distributed_and_Parallel_Computing](https://github.com/linomp/INF560_Distributed_and_Parallel_Computing): Course notes & code for the hands-on sessions.
 - [INF560_APM_Final_Project](https://github.com/linomp/INF560_APM_Final_Project): Speeding-up an [Approximate Pattern Matching](https://www.enseignement.polytechnique.fr/profs/informatique/Patrick.Carribault/INF560/TD/projects/INF560-projects-0.html#topic3) application through multiple parallelism paradigms. [Work in Progress 🚧].  
